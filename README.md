@@ -1,0 +1,2 @@
+# kent
+my learning process
